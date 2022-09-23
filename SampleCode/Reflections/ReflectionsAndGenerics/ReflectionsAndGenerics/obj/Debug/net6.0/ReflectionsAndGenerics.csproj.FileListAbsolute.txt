@@ -1,0 +1,15 @@
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\bin\Debug\net6.0\ReflectionsAndGenerics.exe
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\bin\Debug\net6.0\ReflectionsAndGenerics.deps.json
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\bin\Debug\net6.0\ReflectionsAndGenerics.runtimeconfig.json
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\bin\Debug\net6.0\ReflectionsAndGenerics.dll
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\bin\Debug\net6.0\ReflectionsAndGenerics.pdb
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.csproj.AssemblyReference.cache
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.AssemblyInfoInputs.cache
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.AssemblyInfo.cs
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.dll
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\refint\ReflectionsAndGenerics.dll
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.pdb
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ReflectionsAndGenerics.genruntimeconfig.cache
+C:\Users\santh\source\repos\Training\SampleCode\Reflections\ReflectionsAndGenerics\ReflectionsAndGenerics\obj\Debug\net6.0\ref\ReflectionsAndGenerics.dll
